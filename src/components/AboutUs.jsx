@@ -27,7 +27,7 @@ export default function AboutUs() {
           </div>
 
           <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-stone-900 tracking-tight">
-            About Labbaik Home Project
+            About Labbaik Interior
           </h2>
 
           <p className="text-stone-600 text-sm sm:text-base font-normal leading-relaxed">
@@ -95,7 +95,7 @@ export default function AboutUs() {
             </h3>
 
             <p className="text-stone-600 text-sm sm:text-base leading-relaxed font-light">
-              Founded in 2006 by <strong>Idrish Ahmad</strong>, <strong>Labbaik Home Project</strong> was established on a commitment to uncompromised material quality, honest pricing, and fine finishing. Over two decades, Idrish Ahmad has personally guided the firm from bespoke carpentry and site management into an all-inclusive interior execution agency.
+              Founded in 2006 by <strong>Idrish Ahmad</strong>, <strong>Labbaik Interior</strong> was established on a commitment to uncompromised material quality, honest pricing, and fine finishing. Over two decades, Idrish Ahmad has personally guided the firm from bespoke carpentry and site management into an all-inclusive interior execution agency.
             </p>
 
             <p className="text-stone-600 text-sm sm:text-base leading-relaxed font-light">

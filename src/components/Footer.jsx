@@ -16,11 +16,11 @@ export default function Footer() {
               className="h-12 md:h-14 w-auto object-contain transition-transform group-hover:scale-105" 
             />
             <div className="flex flex-col justify-center leading-tight">
-              <span className="font-serif text-2xl font-bold tracking-wide text-white group-hover:text-amber-400 transition-colors">
+              <span className="font-serif text-lg md:text-xl font-bold tracking-wide text-white group-hover:text-amber-400 transition-colors">
                 Labbaik
               </span>
               <span className="text-[10px] md:text-xs font-semibold tracking-widest uppercase text-amber-500">
-                Home Project
+                Interior
               </span>
             </div>
           </a>
@@ -32,7 +32,7 @@ export default function Footer() {
           {/* React Icons Brand Row */}
           <div className="flex items-center gap-3 pt-2">
             <a 
-              href="https://instagram.com" 
+              href="https://www.instagram.com/labbaikinterior/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-8 h-8 rounded-full bg-stone-900 border border-stone-800 flex items-center justify-center text-stone-400 hover:text-amber-400 hover:border-amber-400/50 transition-all"
@@ -41,7 +41,7 @@ export default function Footer() {
               <FaInstagram className="text-sm" />
             </a>
             <a 
-              href="https://wa.me/919876543210" 
+              href="https://wa.me/919313310786" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-8 h-8 rounded-full bg-stone-900 border border-stone-800 flex items-center justify-center text-stone-400 hover:text-emerald-400 hover:border-emerald-400/50 transition-all"
@@ -92,7 +92,7 @@ export default function Footer() {
       </div>
 
       <div className="max-w-7xl mx-auto px-6 pt-8 border-t border-stone-800/80 flex flex-col sm:flex-row justify-between items-center gap-4 text-stone-500">
-        <p>© {new Date().getFullYear()} Labbaik Home Project. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Labbaik Interior. All rights reserved.</p>
         <div className="flex gap-6">
           <a href="#" className="hover:text-stone-300">Privacy Policy</a>
           <a href="#" className="hover:text-stone-300">Terms of Service</a>

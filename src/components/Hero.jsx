@@ -73,7 +73,7 @@ export default function Hero() {
 
           {/* Subtext */}
           <p className="text-stone-300 text-base sm:text-lg font-light leading-relaxed max-w-2xl">
-            At <strong className="text-white font-medium">Labbaik Home Project</strong>, we blend architectural design, premium craftsmanship, and end-to-end execution to build spaces you love coming home to.
+            At <strong className="text-white font-medium">Labbaik Interior</strong>, we blend architectural design, premium craftsmanship, and end-to-end execution to build spaces you love coming home to.
           </p>
 
           {/* Action Buttons */}
