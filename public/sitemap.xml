@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.labbaikinterior.com/</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Services Section -->
+  <url>
+    <loc>https://www.labbaikinterior.com/#services</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Portfolio / Gallery Section -->
+  <url>
+    <loc>https://www.labbaikinterior.com/#portfolio</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Pricing Packages -->
+  <url>
+    <loc>https://www.labbaikinterior.com/#plans</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Working Process -->
+  <url>
+    <loc>https://www.labbaikinterior.com/#process</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Service Areas (Noida, Greater Noida, Delhi NCR) -->
+  <url>
+    <loc>https://www.labbaikinterior.com/#locations</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- About Us -->
+  <url>
+    <loc>https://www.labbaikinterior.com/#about</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Form -->
+  <url>
+    <loc>https://www.labbaikinterior.com/#contact</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>

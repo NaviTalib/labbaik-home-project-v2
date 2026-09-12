@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.labbaikinterior.com/sitemap.xml
