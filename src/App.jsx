@@ -21,12 +21,12 @@ const SiteLoader = () => (
   <div className="fixed inset-0 z-[100] flex flex-col items-center justify-center bg-stone-950 text-white select-none">
     {/* EXAMPLE LOADER: Customize this SVG/Animation */}
     <div className="flex flex-col items-center gap-6">
-      <div className="w-16 h-16 border-t-4 border-amber-500 rounded-full animate-spin"></div>
-      <span className="font-serif text-3xl font-bold text-amber-500">
+      <div className="w-16 h-16 border-t-4 border-amber-400 rounded-full animate-spin"></div>
+      <span className="font-serif text-3xl font-bold bg-gradient-to-r from-amber-300 via-yellow-400 to-amber-500 bg-clip-text text-transparent">
         Labbaik
       </span>
-      <span className="text-xs uppercase tracking-widest text-stone-400">
-        Home Project
+      <span className="text-2xs uppercase tracking-widest bg-gradient-to-r from-amber-400 via-yellow-500 to-amber-600 bg-clip-text text-transparent font-semibold">
+        - Interior -
       </span>
     </div>
   </div>
